@@ -12,4 +12,4 @@ Andrej Karpathy'nin microgpt projesinin Türkçe açıklaması. Aşağıdaki Col
 İngilizce orijinal [Colab](https://colab.research.google.com/drive/1vyN5zo6rqUp_dYNbT4Yrco66zuWCZKoN?usp=sharing) ve
 [Blog yazısına](https://karpathy.github.io/2026/02/12/microgpt/) linklerden ulaşabilirsiniz.
 
-<img src="img/Transformer Apartmanı.png" width="50%">
+<center><img src="img/Transformer Apartmanı.png" width="100%"></center>
